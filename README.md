@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about some of my past projects.
 - 📫 How to reach me: naseemf@uwindsor.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do CS research for the Bio-Chemistry department
+- ⚡ Fun fact: I do CS research for The University Of Windsor's Bio-Chemistry department
 -->
