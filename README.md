@@ -7,4 +7,4 @@
 - 💬 Ask me about some of my past projects.
 - 📫 How to reach me: naseemf@uwindsor.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Software Engineer Intern for RIIS LLC.
+- ⚡ Fun fact: I am a Back-End Developer Intern for Analyticly Solutions.
