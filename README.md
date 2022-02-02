@@ -7,4 +7,4 @@
 - 💬 Ask me about some of my past projects.
 - 📫 How to reach me: naseemf@uwindsor.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Software Developer Intern for OpenText.
+- ⚡ Fun fact: I am a Software Developer Intern for BlackBerry.
